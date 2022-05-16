@@ -411,13 +411,4 @@ def ubikes_on_map(Districts, ubike_gdf):
 
 
 # In[41]:
-
-
 visualization(Districts, ubike)
-
-
-# In[ ]:
-
-
-
-
