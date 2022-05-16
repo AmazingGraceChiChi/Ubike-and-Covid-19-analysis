@@ -39,6 +39,16 @@
 
 統計結果其實並非特別意料之外，畢竟模型之中就是需要捕捉有顯著的資料，我們猜測各區的交通狀況只是其中的一環，並竟透過ubike通勤的民眾是人口中極少數，且資料指選取疫情三級下的五天，加上確診的民眾也不是隨機散佈在各年齡層。在簡單的統計分析之後，除了ubike各區使用次數的標準差有較其他變數有較高的正相關，我們看不到ubike對於各區疫情確診數呈現特別趨勢或相關性。解釋上，我們猜測因為各區的標準差會受到各區極端值的影響，因此在各區若是有交通熱點成為統計上的極端值，其在疫情確診數上面才有比較明顯的趨勢。
 
+
+附圖1
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image4.png" width=30% height=30%>
+
+附圖2~6
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image2.png" width=30% height=30%>
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image6.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image7.png" width=30% height=30%>
+
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image8.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image9.png" width=30% height=30%>
+
 資料來源
 雙北市政府資料開放平台
 台北市：
@@ -51,12 +61,4 @@ https://data.gov.tw/dataset/7441
 https://covid-19.nchc.org.tw/city_confirmed.php
 
 
-附圖1
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image4.png" width=30% height=30%>
-
-附圖2~6
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image2.png" width=30% height=30%>
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image6.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image7.png" width=30% height=30%>
-
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image8.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image9.png" width=30% height=30%>
 
