@@ -29,12 +29,11 @@
 根據簡單回歸和脊回歸的結果，第一組資料中，在training 裡面我們只分別得到23%和13%的R square，第二組資料，皆得到約21-22%的R square。在模型選擇上面當然是不盡理想的。透過不同模型和不同屬性的資料，我們都沒辦法看到使用人次的四分位數對應到的係數有明顯的趨勢或相關性，但是在各區使用人次標準差上面卻看到較高的正相關；在疫情過去越多天時間係數呈現較高的負相關。
 
 在testing裡面，在R square表現都非常差，約莫落在-4%和-14%之間，也就代表這個模型在預測能力上面極差，這些數據跟確診數統計上沒有關聯，簡單檢討的話，分析交通運輸流量，捷運、公車的旅運量或許是更重要的參考依據，但由於資料取得無法及時跟上，我們並沒有將這些資料納入考量，未來如果加入這段時間的捷運、公車等相關資料，我們的研究結果將會更有機會解釋疫情與交通工具使用人數的關連性。
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image1.png" width=50% height=50%>
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image5.png" width=50% height=50%>
+![image](https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image1.png)
+![image](https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image5.png)
 
 資料視覺化
 附圖1~6
-
 
 研究討論/結論
 
@@ -53,8 +52,8 @@ https://covid-19.nchc.org.tw/city_confirmed.php
 
 
 附圖1
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image4.png" width=40% height=40%>
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image4.png" width=30% height=30%>
 附圖2~6
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image6.png" width=40% height=40%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image7.png" width=40% height=40%>
-<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image8.png" width=40% height=40%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image9.png" width=40% height=40%>
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image6.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image7.png" width=30% height=30%>
+<img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image8.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image9.png" width=30% height=30%>
 
