@@ -53,6 +53,7 @@ https://covid-19.nchc.org.tw/city_confirmed.php
 
 附圖1
 <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image4.png" width=30% height=30%>
+
 附圖2~6
 <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image6.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image7.png" width=30% height=30%>
 <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image8.png" width=30% height=30%> <img src="https://github.com/AmazingGraceChiChi/Ubike-and-Covid-19-analysis/blob/main/image9.png" width=30% height=30%>
