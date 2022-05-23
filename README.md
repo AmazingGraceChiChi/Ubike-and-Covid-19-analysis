@@ -1,5 +1,3 @@
-# Ubike-and-Covid-19-analysis
-
 ## 期末專題: 各區ubike使用與確診數分析
 
 緒論
